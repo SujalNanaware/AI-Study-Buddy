@@ -1,7 +1,7 @@
 export const APP_NAME = 'StudyBuddy AI';
 export const APP_DESCRIPTION = 'Your intelligent study companion powered by AI';
 
-export const GEMINI_MODEL = 'gemini-2.5-flash';
+export const GEMINI_MODEL = 'gemini-1.5-flash';
 
 export const DIFFICULTY_LEVELS = [
   { value: 'easy', label: 'Easy', color: 'var(--color-success)' },
